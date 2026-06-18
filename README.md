@@ -48,6 +48,12 @@
 - Sum-rate maximization simulations
 - MATLAB and Python implementation
 
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Barrelfish96341&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Barrelfish96341&layout=compact)
+
 ## Connect With Me
 -LinkedIn: https://www.linkedin.com/in/saisujalsoma
 

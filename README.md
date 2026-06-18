@@ -1,5 +1,7 @@
 ## Hi, I'm Saisujal Soma 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ECE+Student;Aspiring+VLSI+Engineer;Digital+Design+Enthusiast;Future+AMD+Chip+Designer)](https://git.io/typing-svg)
+
 🎓 B.Tech ECE Student at VNR VJIET
 
 💻 Interested in VLSI Design, Digital IC Design and Embedded Systems

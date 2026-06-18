@@ -54,6 +54,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Barrelfish96341&layout=compact)
 
+![](https://komarev.com/ghpvc/?username=Barrelfish96341)
+
 ## Connect With Me
 -LinkedIn: https://www.linkedin.com/in/saisujalsoma
 

@@ -32,34 +32,49 @@
 ## Projects
 
 ## Hardware Edge Detection Accelerator (Sobel Filter) Mar 2026
-Verilog, RTL Design, Digital Image Processing, Testbench Simulation
+# Verilog, RTL Design, Digital Image Processing, Testbench Simulation
+
 • Designed a Verilog-based Sobel edge detection accelerator implementing parallel 3×3 convolution for real-time image
 processing
+
 • Developed a line-buffer architecture enabling continuous pixel streaming while reducing memory accesses and improving
 throughput
+
 • Implemented gradient magnitude computation and thresholding logic for hardware-based edge extraction
+
 • Verified RTL functionality using custom image test vectors and achieved 100% pass rate across simulation test cases
 
 ## CFF Measurement Device (LVPEI Collaboration) Mar 2026 – Present
-Embedded Systems, Signal Processing, Data Acquisition, Human Vision Assessment
+# Embedded Systems, Signal Processing, Data Acquisition, Human Vision Assessment
+
 • Developing a Critical Flicker Fusion Frequency (CFF) measurement device in collaboration with LVPEI for objective
 assessment of temporal visual perception
+
 • Implemented programmable LED stimulus generation with precise frequency control for CFF threshold determination
+
 • Designed embedded data acquisition workflows for recording participant responses and experimental observations
 
 ## Multimodal Biometric Authentication System Oct – Dec 2025
-MATLAB, AlexNet (CNN), MFCC, ECOC Classifier, Image and Audio Signal Processing
+# MATLAB, AlexNet (CNN), MFCC, ECOC Classifier, Image and Audio Signal Processing
+
 • Built a multimodal biometric system for face, voice, and gender recognition achieving 93% overall classification accuracy
+
 • Extracted MFCC features from speech signals and trained ECOC classifiers for user identification
+
 • Applied transfer learning using AlexNet for face and gender classification on image datasets
+
 • Integrated all recognition modules into a unified MATLAB application for end-to-end biometric authentication
 
 ## Embedded Voice Assistant with On-Device Speech Processing Oct 2025
-Python, Vosk, eSpeak, Embedded Linux, I2C, JSON
+# Python, Vosk, eSpeak, Embedded Linux, I2C, JSON
+
 • Developed a Raspberry Pi-based offline voice assistant featuring wake-word detection and local speech recognition for
 privacy-preserving voice interaction
+
 • Integrated Vosk speech recognition and eSpeak text-to-speech engines for fully local voice interaction
+
 • Implemented I2C LCD feedback and JSON-based persistent storage for scheduling and task management
+
 • Developed modular command-processing architecture for extensible offline assistant functionality
 
 ## GitHub Stats

@@ -74,6 +74,8 @@ privacy-preserving voice interaction
 
 ## Connect With Me
 -LinkedIn: https://www.linkedin.com/in/saisujalsoma
+
 -Mail ID: saisujalsoma@gmail.com
--Contact: 8886664716
+
+-Contact: +918886664716
 

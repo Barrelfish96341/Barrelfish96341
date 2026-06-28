@@ -32,7 +32,7 @@
 ## Projects
 
 ## Hardware Edge Detection Accelerator (Sobel Filter) Mar 2026
-# Verilog, RTL Design, Digital Image Processing, Testbench Simulation
+### Verilog, RTL Design, Digital Image Processing, Testbench Simulation
 
 • Designed a Verilog-based Sobel edge detection accelerator implementing parallel 3×3 convolution for real-time image
 processing
@@ -45,7 +45,7 @@ throughput
 • Verified RTL functionality using custom image test vectors and achieved 100% pass rate across simulation test cases
 
 ## CFF Measurement Device (LVPEI Collaboration) Mar 2026 – Present
-# Embedded Systems, Signal Processing, Data Acquisition, Human Vision Assessment
+### Embedded Systems, Signal Processing, Data Acquisition, Human Vision Assessment
 
 • Developing a Critical Flicker Fusion Frequency (CFF) measurement device in collaboration with LVPEI for objective
 assessment of temporal visual perception
@@ -55,7 +55,7 @@ assessment of temporal visual perception
 • Designed embedded data acquisition workflows for recording participant responses and experimental observations
 
 ## Multimodal Biometric Authentication System Oct – Dec 2025
-# MATLAB, AlexNet (CNN), MFCC, ECOC Classifier, Image and Audio Signal Processing
+### MATLAB, AlexNet (CNN), MFCC, ECOC Classifier, Image and Audio Signal Processing
 
 • Built a multimodal biometric system for face, voice, and gender recognition achieving 93% overall classification accuracy
 
@@ -66,7 +66,7 @@ assessment of temporal visual perception
 • Integrated all recognition modules into a unified MATLAB application for end-to-end biometric authentication
 
 ## Embedded Voice Assistant with On-Device Speech Processing Oct 2025
-# Python, Vosk, eSpeak, Embedded Linux, I2C, JSON
+### Python, Vosk, eSpeak, Embedded Linux, I2C, JSON
 
 • Developed a Raspberry Pi-based offline voice assistant featuring wake-word detection and local speech recognition for
 privacy-preserving voice interaction

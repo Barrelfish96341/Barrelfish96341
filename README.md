@@ -72,14 +72,8 @@ privacy-preserving voice interaction
 
 • Developed modular command-processing architecture for extensible offline assistant functionality
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Barrelfish96341&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Barrelfish96341&layout=compact)
-
-![](https://komarev.com/ghpvc/?username=Barrelfish96341)
-
 ## Connect With Me
 -LinkedIn: https://www.linkedin.com/in/saisujalsoma
+-Mail ID: saisujalsoma@gmail.com
+-Contact: 8886664716
 
